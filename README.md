@@ -28,7 +28,7 @@ Before you begin, ensure you have installed:
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd chli7a
+cd SOM
 ```
 
 2. Install dependencies:
